@@ -1,6 +1,6 @@
 # ipa-apk-info
 
-> A Vue.js project
+> demo page [在线demo](https://chenyuqiao2.github.io/online-app-info-parser/)
 
 ## Build Setup
 
