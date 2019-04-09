@@ -1,4 +1,4 @@
-# apk-info
+# ipa-apk-info
 
 > A Vue.js project
 
