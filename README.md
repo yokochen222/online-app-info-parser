@@ -1,6 +1,6 @@
 # ipa-apk-info
 
-> demo page [在线demo](https://chenyuqiao2.github.io/online-app-info-parser/)
+> demo page [在线demo](https://yokochen-china.github.io/online-app-info-parser/)
 
 ## Build Setup
 
